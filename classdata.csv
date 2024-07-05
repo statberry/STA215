@@ -1,0 +1,23 @@
+year,fav_season,office_hours,handedness,extroversion_numeric,fixed_mindset,growth_mindset,job_status,living_location,num_siblings,num_pets,hours_tv_per_day,hours_social_day,hours_study_day,num_stat_courses,creativity,nervousness_about_STA215,confidence_eval_stat_findings,confidence_driving,seat_preference,birth_month,fav_color,fav_tv_show,fav_movie,fav_band,memory_match_time1,memory_match_time2,reaction_time,extroversion_group,siblings,time1_minus_time2,birth_season
+Non-Traditional,Fall,2,right-handed,50,75,20,Working full-time,Off campus,4,1,2,0,2,0,20,100,50,75,Front,May,Green,Outlander,Jojo Rabbit,Everything,65,53,0.795,In-Between,Yes,12,Spring
+Junior,Summer,1,right-handed,50,0,90,No job,Off campus,0,1,2,1,3,1,50,40,30,70,Front,January,Blue,Breaking Bad,Inception ,Breaking Benjamin ,51,37,0.302,In-Between,No,14,Winter
+Junior,Summer,0,right-handed,45,0,70,Working full-time,Off campus,3,1,1,0,5,0,50,70,75,90,Front,August,Green,Lost,Friday Night Lights,Whiskey Myers,46,35,0.231,Introvert,Yes,11,Summer
+Junior,Spring,10,right-handed,25,10,90,Working full-time,Off campus,1,2,0,6,3,1,75,40,40,85,Front,April,Pink,Bridgerton,Live Action Cinderella,Taylor Swift,38,46,0.56,Introvert,Yes,-8,Spring
+Junior,Summer,2,right-handed,75,70,30,No job,Off campus,0,0,7,3,5,1,50,70,10,90,Front,November,Rose Gold,The Vampire Diaries ,Stomp The Yard ,Chris Brown ,89,64,0.439,Extrovert,No,25,Fall
+Sophomore,Winter,1,right-handed,30,25,75,Working full-time,Off campus,2,0,2,2,1,1,15,0,60,80,Middle,October,Black,Rick and Morty,The Iron Giant,System of A Down,41,52,0.345,Introvert,Yes,-11,Fall
+Senior,Fall,0,right-handed,85,100,100,Working part-time,Off campus,1,2,15,2,3,1,100,30,50,80,Middle,November,Olive Green,Parks and Recreation,Blacksheep,Greta Van Fleet,30,32,0.36,Extrovert,Yes,-2,Fall
+Sophomore,Summer,4,right-handed,6,60,100,Working part-time,Off campus,2,1,4,5,3,1,40,50,30,90,Middle,July,baby blue,That 70s Show,Mama Mia,Drake,40,63,0.349,Introvert,Yes,-23,Summer
+Senior,Fall,0,right-handed,40,10,90,Working part-time,Off campus,1,1,3,2,4,0,75,55,40,80,Middle,May,Blue,ER,Hunger Games,Daughtry,43,48,0.688,Introvert,Yes,-5,Spring
+Senior,Summer,2,right-handed,60,0,90,Working full-time,Off campus,0,0,1,0,3,0,0,0,50,50,Back,April,Blue,Curb Your Enthusiasm,Raiders of the Lost Ark,Morgan Wallen,51,46,0.398,Extrovert,No,5,Spring
+Junior,Fall,3,right-handed,65,20,90,Working part-time,Off campus,3,2,2,5,6,1,80,90,50,90,Front,September,purple,South Park,The Outsiders,Spendtime Palace,40,59,0.352,Extrovert,Yes,-19,Fall
+Senior,Summer,1,left-handed,70,80,90,Working full-time,Off campus,1,4,2,2,6,0,80,80,35,50,Middle,June,Green,Friends,na,Luke Combs,46,41,0.433,Extrovert,Yes,5,Summer
+Senior,Fall,1,left-handed,80,100,100,Working part-time,Off campus,0,2,3,3,6,2,70,100,50,90,Front,April,Pink ,The Office ,Beetle Juice ,I have two major artist one is an American singer his name is Don Toliver and My other favorite is a Latino artist which is Rauw Alejandro. ,59,54,0.419,Extrovert,No,5,Spring
+Junior,Summer,3,right-handed,70,50,100,Working full-time,Off campus,2,2,3,2,6,1,60,50,25,100,Middle,July,Blue ,The office ,War Dogs ,Luke Combs ,50,75,0.098,Extrovert,Yes,-25,Summer
+Junior,Summer,3,right-handed,25,0,100,Working full-time,Off campus,1,3,2,2,3,1,70,50,80,85,Middle,May,Green,Criminal Minds,Marvel Movies,Billie Eilish,48,45,0.361,Introvert,Yes,3,Spring
+Junior,Fall,0,right-handed,50,80,5,Working full-time,Off campus,2,0,1,2,5,0,20,90,20,85,Back,October,blue,dexter,Scarface,RMC Mike,41,45,0.384,In-Between,Yes,-4,Fall
+Freshman,Fall,4,right-handed,64,0,100,Working part-time,Off campus,1,0,4,2,5,0,73,48,0,46,Middle,June,purple,The Good Dcotor,The Greatest Showman ,Stray Kids,43,42,0.299,Extrovert,Yes,1,Summer
+Sophomore,Summer,3,right-handed,70,50,100,Working part-time,On campus,2,4,3,4,6,0,50,50,30,85,Back,April,pink,The Vampire Diaries ,The last song ,T-pain,34,34,0.34,Extrovert,Yes,0,Spring
+Sophomore,Summer,0,right-handed,30,20,100,Working part-time,On campus,2,2,0,3,5,0,40,70,10,85,Front,March,pink,greys anatomy ,anyone but you,the Lumineers ,44,38,0.478,Introvert,Yes,6,Spring
+Junior,Fall,10,right-handed,75,50,100,Working part-time,Off campus,1,3,2,4,5,0,90,60,70,100,Back,June,Blue,House MD,Gran Torino,Van Halen,53,47,0.33,Extrovert,Yes,6,Summer
+Junior,Winter,2,right-handed,60,50,100,Working part-time,Off campus,2,1,3,3,3,1,70,100,40,80,Middle,November,pink,orange is the new black,polar express,kanye ,53,43,1.26,Extrovert,Yes,10,Fall
+Junior,Summer,6,right-handed,90,60,100,Working full-time,Off campus,4,3,2,5,3,0,95,55,30,88,Middle,January,pink,modern family,gifted hands,taylor swift,35,50,0.425,Extrovert,Yes,-15,Winter
